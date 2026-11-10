@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Agent",
+  "description": "Structured 5-step analysis of scientific papers and abstracts: Problem, Method, Key Results, Limitations, and 3-Sentence Plain-English Summary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
